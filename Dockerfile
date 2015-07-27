@@ -2,7 +2,7 @@
 # Docker file to build an MQTT Broker
 #####################################
 
-FROM 32bit/ubuntu:14.04
+FROM ubuntu:14.04
 
 MAINTAINER JL CAO<caojianlong@outlook.com>
 
